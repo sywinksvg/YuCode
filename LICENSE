@@ -17,8 +17,16 @@ Copyright (c) 2026 YuCode. All rights reserved.
 
 四、知识产权
    YuCode 基于开源项目 ZCode（Apache-2.0 协议）二次开发。
+
+   Copyright 2026 Z.AI Co., Ltd
+   —— ZCode 原始版权声明，依 Apache-2.0 §4(c) 予以保留。
+
    本产品中属于 ZCode 原作者的部分，保留其原版权声明与 Apache-2.0 授权，
-   可通过 https://github.com/zhipuai/zcode 获取。
+   源码可通过 https://github.com/zai-org/ZCode 获取。
+   Apache-2.0 全文见发行包内 THIRD-PARTY-NOTICES.md。
+   依 Apache-2.0 §4(d)，ZCode 原始 NOTICE 中的署名声明随本发行物一并保留，
+   见仓库根目录 NOTICE.md。
+
    YuCode 新增部分（含渗透测试作战台、授权体系、内置技能资产、
    界面与交互改进）的著作权归 YuCode 作者所有。
 

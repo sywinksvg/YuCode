@@ -20,7 +20,7 @@
 
 **YuCode** 是一个本地优先的 AI 工作台，专门为渗透测试和安全研究场景做了加强。
 
-它继承自 [ZCode](https://github.com/zhipuai/zcode) 的多智能体协作能力（多供应商模型、Agent 会话、
+它继承自 [ZCode](https://github.com/zai-org/ZCode) 的多智能体协作能力（多供应商模型、Agent 会话、
 工具调用、MCP 扩展），并在其上增加了一整套**渗透测试作战台**：资产、漏洞、调度、流程全部落盘即入库。
 
 ## 核心能力
