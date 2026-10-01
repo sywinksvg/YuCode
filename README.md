@@ -6,7 +6,7 @@
 
 从 ZCode 增强而来的本地优先 AI 工作台。数据全部在你自己的机器上，不上传、不外传。
 
-[![版本](https://img.shields.io/badge/release-v1.0.0-blue)](../../releases)
+[![版本](https://img.shields.io/badge/release-v1.0.1-blue)](../../releases)
 [![平台](https://img.shields.io/badge/platform-Windows%20x64-lightgrey)](../../releases)
 [![授权](https://img.shields.io/badge/license-机器码激活-orange)](../../releases)
 
@@ -66,9 +66,9 @@
 
 | 文件 | 说明 |
 | --- | --- |
-| `YuCode-1.0.0-win-x64.exe` | Windows 64 位安装包（约 163 MB） |
+| `YuCode-1.0.1-win-x64.exe` | Windows 64 位安装包（约 163 MB） |
 | `latest.yml` | 自动更新清单（升级必需） |
-| `YuCode-1.0.0-win-x64.exe.blockmap` | 差分更新索引（升级必需） |
+| `YuCode-1.0.1-win-x64.exe.blockmap` | 差分更新索引（升级必需） |
 
 > 三个文件**下载后放在同一个目录**，双击 exe 安装即可。
 > 装完在首屏可以改选「独立使用 / 与 ZCode 共生」，两个模式功能完全一致。
